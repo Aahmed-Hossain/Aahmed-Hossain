@@ -1,11 +1,6 @@
 <h1 align="center"> <span style="color:red">Hello!! This is Ahmed.</span></h1>
 
 <h5 align="center">A Full-Time Full-Stack Web Developer!!!</h5>
-![](https://github-readme-stats.vercel.app/api?username=Gias Uddin&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gias Uddin&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gias Uddin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p>Assalamu Alaikum , I am Ahmed Hossain, a passionate, dedicated and enthusiastic full stack developer.For the past months, I have been honing my skills in web development, specializing in React.js for front-end development and Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.</p>
-<img alt="coding gif" width="350" align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 - 🎯 Currently focusing on Next.js , TypeScript.
 - 💬 Ask me about **Javascript , React , Next.js**
