@@ -17,6 +17,8 @@ Skills: JAVASCRIPT / HTML / CSS / REACT /  NEXT.js /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aahmed-Hossain&show_icons=true&count_private=true)  
 
+| `radical` ![radical][radical] | `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] |
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Aahmed-Hossain/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Aahmed-Hossain)  
