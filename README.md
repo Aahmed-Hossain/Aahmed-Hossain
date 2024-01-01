@@ -2,8 +2,7 @@
 <h5 align="center">A Full-Time Full-Stack Web Developer</h5>
 
 <p>Assalamu Alaikum , I am Ahmed Hossain, a passionate, dedicated and enthusiastic full stack developer.For the past months, I have been honing my skills in web development, specializing in React.js for front-end development and Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.</p>
-
-![Example Image](https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0)
+<img alt="coding gif" width="400" align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 - 🎯 Currently focusing on Next.js , TypeScript.
 - 💬 Ask me about **Javascript , React , Next.js**
