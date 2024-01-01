@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahmed!
 #### Driven by code, fueled by creativity.A Passionate Full-Stack Web Developer building meaningful web experiences. 🚀🖥️
-![Driven by code, fueled by creativity.A Passionate Full-Stack Web Developer building meaningful web experiences. 🚀🖥️](https://i.ibb.co/4WJzVgW/african-business-male-people-shaking-hands.jpg)
+![Driven by code, fueled by creativity.A Passionate Full-Stack Web Developer building meaningful web experiences. 🚀🖥️](https://i.ibb.co/ygJYLTc/logo2-1.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
