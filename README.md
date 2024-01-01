@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed!</h1>
-<h3 align="center">A Passionate Full Time Full-Stack Web Developer</h3>
+<h6 align="center">A Full Time Full-Stack Web Developer</h6>
 
+<p>Assalamu Alaikum , I am Ahmed Hossain, a passionate, dedicated and enthusiastic full stack developer.For the past six months, I have been honing my skills in web development, specializing in React.js for front-end development and Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.</p>
+-🎯 Currently focusing on Next.js , TypeScript.
 - 💬 Ask me about **Javascript , React , Next.js**
-
-- 📫 How to reach me **aahmdctec@gmail.com**
-
+- 📫 How to reach me **<a href="ahmed.hsn.404@gmail.com">Mail</a>**
+- 🎓 BSc Graduate
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed" height="30" width="40" /></a>
