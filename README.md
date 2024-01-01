@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmed!</h1>
-<h6 align="center">A Full Time Full-Stack Web Developer</h6>
+<h1 align="center"> I'm Ahmed!</h1>
+<h5 align="center">A Full-Time Full-Stack Web Developer</h5>
 
-<p>Assalamu Alaikum , I am Ahmed Hossain, a passionate, dedicated and enthusiastic full stack developer.For the past six months, I have been honing my skills in web development, specializing in React.js for front-end development and Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.</p>
+<p>Assalamu Alaikum , I am Ahmed Hossain, a passionate, dedicated and enthusiastic full stack developer.For the past months, I have been honing my skills in web development, specializing in React.js for front-end development and Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.</p>
 
 - 🎯 Currently focusing on Next.js , TypeScript.
 - 💬 Ask me about **Javascript , React , Next.js**
