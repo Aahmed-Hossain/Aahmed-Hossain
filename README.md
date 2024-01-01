@@ -16,9 +16,7 @@ Skills: JAVASCRIPT / HTML / CSS / REACT /  NEXT.js /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aahmed-Hossain)](https://github.com/Aahmed-Hossain/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aahmed-Hossain&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aahmed-Hossain&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Aahmed-Hossain)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Aahmed-Hossain/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Aahmed-Hossain)  
 
