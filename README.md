@@ -27,14 +27,15 @@
      
   </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  
    <p>
-	 <a align="right" href="https://app.daily.dev/qridwan"><img align="right" src="https://github.com/qridwan/qridwan/blob/main/devcard.svg"  height="350" alt="ridwan's Dev Card"/></a>
+ <a align="right" href="https://app.daily.dev/ahmed404><img align="right" src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w"  height="350" alt="Ahmed's Dev Card"/></a>
 <h3>Tools:</h3>
 
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
-<a align="right" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="350" alt="Ahmed's Dev Card"/></a>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahmed-hossain&show_icons=true&locale=en&layout=compact" alt="aahmed-hossain" /></p>
