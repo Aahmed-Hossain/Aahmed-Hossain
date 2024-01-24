@@ -1,6 +1,7 @@
 <h1 align="center"> <span style="color:red">Hello!! This is Ahmed.</span></h1>
 <h4 align="center">A Full-Time Full-Stack Web Developer!!!</h4>
- <a align="right" width="350" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="400" alt="Ahmed's Dev Card"/></a>
+ <a align="right" height="350" width="300" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" alt="Ahmed's Dev Card"/></a>
+<img alt="coding gif" width="350" align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 - 🎯 Currently focusing on **Next.js , TypeScript**.
 - 💬 Ask me about **Javascript , React , Next.js**
