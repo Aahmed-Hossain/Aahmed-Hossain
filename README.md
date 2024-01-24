@@ -19,7 +19,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display:flex; flex-direction:row; justify-content:space-between;">
   <div>
     <h3>Frontend & Backend: </h3>
 
@@ -34,9 +34,11 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </div>
-<p>
-  <a align="right" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="350" alt="Ahmed's Dev Card"/></a>
-</p>
+
+<div>
+    <a align="right" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="350" alt="Ahmed's Dev Card"/></a>
+</div>
+
 </div>
 
 
