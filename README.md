@@ -22,7 +22,7 @@
   <h3>Frontend & Backend:-</h3>
 
    <p>
-	 <a align="right" href="https://app.daily.dev/ahmed404"><img align="right" src="https://github.com/Aahmed-Hossain/Aahmed-Hossain/blob/main/devcard.svg"  height="350" alt="Ahmed's Dev Card"/></a>
+	 <a href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="400" alt="Ahmed's Dev Card"/></a>
 
 
   </p>
