@@ -21,7 +21,7 @@
   
   <h3>Frontend & Backend:-</h3>
 
-   <p>
+   <p align="right" >
 	 <a align="right" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w"height="350" width="300" alt="Ahmed's Dev Card"/></a>
 
 
