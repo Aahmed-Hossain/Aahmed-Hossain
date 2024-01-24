@@ -2,9 +2,6 @@
 <h4 align="center">A Full-Time Full-Stack Web Developer!!!</h4>
 <img  height = 300 width = 300  align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="coding gif">
 
-<p>
-  <a align="right" href="https://app.daily.dev/ahmed404"><img align="right" src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="300" alt="Ahmed's Dev Card"/></a>
-</p>
 
 - 🎯 Currently focusing on **Next.js , TypeScript**.
 - 💬 Ask me about **Javascript , React , Next.js**
@@ -19,7 +16,9 @@
 </p>
 
 <h3 align="left">Languages: </h3>
-
+<p>
+  <a align="right" href="https://app.daily.dev/ahmed404"><img align="right" src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="300" alt="Ahmed's Dev Card"/></a>
+</p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
