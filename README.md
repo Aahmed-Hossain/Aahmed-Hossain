@@ -1,10 +1,12 @@
 <h1 align="center"> <span style="color:red">Hello!! This is Ahmed.</span></h1>
 <h4 align="center">A Full-Time Full-Stack Web Developer!!!</h4>
-<img alt="coding gif" width="300" align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<img  height = 200 width = 300  align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="coding gif">
+
 - 🎯 Currently focusing on **Next.js , TypeScript**.
 - 💬 Ask me about **Javascript , React , Next.js**
 - 📫 How to reach me **ahmed.hsn.404@gmail.com**
-- 🎓 B.Sc. Graduate
+- 🎓 B.Sc. Graduate.
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-hossain-57aab42a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed" height="30" width="40" /></a>
