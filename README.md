@@ -2,6 +2,10 @@
 <h4 align="center">A Full-Time Full-Stack Web Developer!!!</h4>
 <img  height = 300 width = 300  align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="coding gif">
 
+<p>
+  <a align="right" href="https://app.daily.dev/ahmed404"><img align="right" src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="300" alt="Ahmed's Dev Card"/></a>
+</p>
+
 - 🎯 Currently focusing on **Next.js , TypeScript**.
 - 💬 Ask me about **Javascript , React , Next.js**
 - 📫 How to reach me **ahmed.hsn.404@gmail.com**
@@ -20,10 +24,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
 <h3>Frontend & Backend: </h3>
-
-<p>
-  <a align="right" href="https://app.daily.dev/ahmed404"><img align="right" src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="400" alt="Ahmed's Dev Card"/></a>
-</p>
 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
    
