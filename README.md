@@ -1,6 +1,9 @@
 <h1 align="center"> <span style="color:red">Hello!! This is Ahmed.</span></h1>
 <h4 align="center">A Full-Time Full-Stack Web Developer!!!</h4>
 <img alt="coding gif" width="350" align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<p align="right">
+  <a align="right" width="350" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="400" alt="Ahmed's Dev Card"/></a>
+</p>
 
 - 🎯 Currently focusing on **Next.js , TypeScript**.
 - 💬 Ask me about **Javascript , React , Next.js**
@@ -33,9 +36,7 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-<p align="right">
-  <a align="right" href="https://app.daily.dev/ahmed404"><img src="https://api.daily.dev/devcards/b87b471ab9f84406bb48880cc3ba41d2.png?r=j3w" width="400" alt="Ahmed's Dev Card"/></a>
-</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahmed-hossain&show_icons=true&locale=en&layout=compact" alt="aahmed-hossain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahmed-hossain&show_icons=true&locale=en" alt="aahmed-hossain" /></p>
