@@ -4,7 +4,7 @@
 
 
 - 🎯 Currently focusing on **Next.js , TypeScript**.
-- 💬 Ask me about **Javascript , React , Next.js**
+- 💬 Ask me about **JavaScript , React.js.**
 - 📫 How to reach me **ahmed.hsn.404@gmail.com**
 - 🎓 B.Sc. Graduate.
   
