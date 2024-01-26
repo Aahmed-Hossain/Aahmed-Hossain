@@ -1,6 +1,6 @@
 <h1 align="center"> <span style="color:red">Hello!! This is Ahmed.</span></h1>
 <h3 align="center">A Full-Time Full-Stack Web Developer!!!</h3>
-<img  height = 350 width = 300  align="right" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="coding gif">
+<img  height = 350 width = 350  align="right" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="coding gif">
 
 
 - 🎯 Currently focusing on **Next.js , TypeScript**.
